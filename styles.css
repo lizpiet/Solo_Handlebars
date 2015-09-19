@@ -1,0 +1,46 @@
+body{
+	font: 18px tahoma, sans-serif;
+	color:black;
+	padding:45px 25px 45px 65px;
+}
+
+
+h1 {
+	font: 49px Tahoma;
+	font-weight: bold;
+	text-align: center;
+}
+h3{
+	color:;
+	font-size: 20px;
+}
+ul{
+
+	list-style: none;
+	color:gray;
+	line-height: 15px;
+	font-size: 18px;
+	font-weight: normal;
+}
+button{
+	display: block;
+	margin:0 auto;
+	font-family: georgia;
+	font-weight: bold;
+	font-size: 20px;
+	font-style: italic;
+	padding: 10px 10px;
+	border-width: 2px;
+	border-radius: 5px;
+	background-color: black;
+	color: white;
+	letter-spacing:2px;
+}
+p{
+	padding-top: 45px;
+	font-family: georgia;
+	font-weight: bold;
+	font-size: 20px;
+	font-style: italic;
+
+}
